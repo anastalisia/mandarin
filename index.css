@@ -1,0 +1,387 @@
+h1, h2 {
+	margin-top: 0;
+	margin-bottom: 0;
+  }
+.header1 {
+	align-self: stretch;
+	position: relative;
+	line-height: 1;
+	font-size: 3rem;
+  }
+  
+  .text1 {
+	flex: 1;
+	position: relative;
+	line-height: 1.35;
+	font-size: 1.25rem;
+  }
+  
+  .photo-expert-icon {
+	align-self: stretch;
+	position: relative;
+	border-radius: 6.25rem;
+	max-width: 1;
+	overflow: hidden;
+	height: 7.6875rem; /* 123px */
+	flex-shrink: 0;
+	object-fit: cover;
+  }
+  
+  .text3 {
+	align-self: stretch;
+	position: relative;
+	line-height: 1;
+	font-size: 0.75rem;
+  }
+  
+  .expert {
+	width: 7.6875rem; /* 123px */
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 0.5rem;
+	font-size: 0.75rem;
+  }
+  
+  .lid-expert {
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 5.75rem; /* 92px */
+	font-size: 1.25rem;
+  }
+  
+  .header1-lid {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 1.5rem;
+	font-size: 3rem;
+  }
+  
+  .header2 {
+	align-self: stretch;
+	position: relative;
+	line-height: 1.15;
+	text-indent: 0.125rem; /* 2px */
+  }
+  
+  .text2 {
+	align-self: stretch;
+	position: relative;
+	font-size: 1rem;
+	line-height: 1.35;
+  }
+  
+  .touchhead-text {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+	gap: 1rem;
+  }
+  
+  .gnil-icon {
+	width: 12.1875rem; /* 195px */
+	position: relative;
+	height: 8.25rem; /* 132px */
+	object-fit: cover;
+  }
+  
+  .header3 {
+	align-self: stretch;
+	position: relative;
+	line-height: 1.35;
+	font-weight: 600;
+  }
+  
+  .gnilhead-text {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+  }
+  
+  .gnil-card {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 0.75rem;
+  }
+  .tverd-card {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 0.75rem;
+  }
+  .spel-card {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 0.75rem;
+  }
+  .tverd-icon {
+	width: 12.1875rem; /* 195px */
+	position: relative;
+	height: 10.8125rem; /* 173px */
+	object-fit: cover;
+  }
+  
+  .spel-icon {
+	width: 12.1875rem; /* 195px */
+	position: relative;
+	height: 8.0625rem; /* 129px */
+	object-fit: cover;
+  }
+  
+  .cards-touch1 {
+	flex: 1;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+	justify-content: flex-start;
+	gap: 1.25rem; /* 20px */
+  }
+  
+  .cards-touch {
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 1.25rem; /* 20px */
+	font-size: 0.75rem;
+  }
+  
+  .touchwithoutvideo-container {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 0 13.4375rem 0 0; /* 0px 215px 0px 0px */
+	gap: 1.5rem;
+  }
+  
+  .video-touch {
+	align-self: stretch;
+	flex: 1;
+	position: relative;
+  }
+  
+  .videotouch-text {
+	align-self: stretch;
+	height: 31.3125rem; /* 501px */
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 0.8125rem; /* 13px */
+	font-size: 0.75rem;
+  }
+  
+  .touch-container {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 1.5rem;
+  }
+  
+  .p {
+	margin: 0;
+  }
+  
+  .viewhead-text {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 1rem;
+  }
+  
+  .rub-icon {
+	width: 12.1875rem; /* 195px */
+	position: relative;
+	height: 12.1875rem; /* 195px */
+	overflow: hidden;
+	flex-shrink: 0;
+	object-fit: cover;
+  }
+  
+  .rub-card {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 0.75rem;
+  }
+  
+  .cards-view {
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 1.25rem; /* 20px */
+	font-size: 0.75rem;
+  }
+  
+  .veshead-text {
+	align-self: stretch;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 0 13.4375rem 0 0; /* 0px 215px 0px 0px */
+	gap: 1rem;
+  }
+  
+  .ves {
+	width: 100%;
+	top: 0;
+	right: 0;
+	left: 0;
+	height: 29.5rem; /* 472px */
+  }
+  
+  .text38 {
+	width: 100%;
+	top: 30.3125rem; /* 485px */
+	left: 0;
+	line-height: 1.35;
+	display: inline-block;
+  }
+  
+  .videoves-text {
+	align-self: stretch;
+	position: relative;
+	height: 31.3125rem; /* 501px */
+	display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 0.8125rem; /* 13px */
+	font-size: 0.75rem;
+  }
+  
+  .ves-container {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 1.5rem;
+  }
+  
+  .blank-line2 {
+	margin: 0;
+	font-size: 0.0625rem; /* 1px */
+  }
+  
+  .text23 {
+	align-self: stretch;
+	position: relative;
+	line-height: 1.35;
+	font-size: 1rem;
+  }
+  
+  .klementin-icon {
+	width: 12.1875rem; /* 195px */
+	position: relative;
+	height: 11.875rem; /* 190px */
+	overflow: hidden;
+	flex-shrink: 0;
+	object-fit: cover;
+  }
+  
+  .p3 {
+	text-indent: 1.25rem; /* 20px */
+	margin-block-start: 0;
+	margin-block-end: 0.25rem; /* 4px */
+  }
+  
+  .p6 {
+	text-indent: 1.25rem; /* 20px */
+	margin: 0;
+  }
+  
+  .klementinheader-text {
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: flex-start;
+  }
+  
+  .unshiu-icon {
+	width: 12.1875rem; /* 195px */
+	position: relative;
+	height: 10rem; /* 160px */
+	overflow: hidden;
+	flex-shrink: 0;
+	object-fit: cover;
+  }
+  
+  .unshiu-card {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	gap: 1rem;
+  }
+  
+  .murkot-icon {
+	width: 12.1875rem; /* 195px */
+	position: relative;
+	height: 10.5625rem; /* 169px */
+	overflow: hidden;
+	flex-shrink: 0;
+	object-fit: cover;
+  }
+  
+  .cards-sort {
+	align-self: stretch;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-end;
+	justify-content: flex-start;
+	gap: 1.25rem; /* 20px */
+	font-size: 0.75rem;
+  }
+  
+  .mandarin {
+	width: 100%;
+	position: relative;
+	background-color: #fff;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: flex-start;
+	padding: 3rem 5rem; /* 48px 80px */
+	box-sizing: border-box;
+	gap: 2.5rem;
+	text-align: left;
+	font-size: 1.5rem; /* 24px */
+	color: #000;
+	font-family: Inter;
+  }
